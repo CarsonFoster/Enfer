@@ -1,0 +1,17 @@
+.py:
+	Enfer
+	physics
+
+assets:
+	dude.png
+	tilesets folder
+	level map
+
+directory structure:
+
+-- python files
+-- png references for .tsx
+-- hero pngs
+-- tilesets
+   |__ .tsx files
+   |__ embedded reference pngs 
